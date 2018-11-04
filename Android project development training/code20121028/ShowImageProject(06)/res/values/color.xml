@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="white">#FFFFFFFF</drawable>
+    <drawable name="black">#000000</drawable>
+    <drawable name="blue">#0000FF</drawable>
+    <drawable name="gray">#808080</drawable>
+    <drawable name="deepgray">#4F4F4F</drawable>
+    <drawable name="deepgreen">#003A00</drawable>
+    <color name="background">#FF000000</color>
+	<color name="control_back">#AA00003D</color>
+	<color name="dialog_back">#330000FF</color>
+	<color name="titlecolor">#33FF6600</color>
+	<color name="transparent">#00000000</color>
+	<color name="window_bg">#fff0f3f6</color>
+</resources>
+
